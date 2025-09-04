@@ -1,5 +1,5 @@
 # 💫 About Me:
-seorang mahasiswa<br>programmer pemula<br>menyukai editing juga videografi<br>atlet basker
+🎓 Mahasiswa yang tertarik di bidang teknologi & kreatif<br>💻 Programmer pemula, sedang belajar Python & web development<br>🎬 Hobi dalam editing video dan videografi<br>🏀 Atlet basket yang aktif di olahraga
 
 
 ## 🌐 Socials:
