@@ -11,7 +11,7 @@
 ---
 
 ## 🌐 Socials
-<div align="center">
+<div align="left">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abntang.nur) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bntang.nur) 
