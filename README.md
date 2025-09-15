@@ -1,5 +1,5 @@
 # 💫 About Me
-<div align="center">
+<div align="left">
 
 🎓 Mahasiswa yang tertarik di bidang teknologi & kreatif  
 💻 Programmer pemula, sedang belajar **Python** & **Web Development**  
