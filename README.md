@@ -5,8 +5,6 @@
 **INFORMATICS ENGINEERING STUDENT** <br>
 Frontend Developer • Linux Explorer
 
-<i>Tracing code through the shadows.</i>
-
 </div>
 
 ---
