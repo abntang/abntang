@@ -1,134 +1,47 @@
-<div align="center">
+<div align="justify">
 
 # ASTARS
-
-**INFORMATICS ENGINEERING STUDENT** <br>
-Frontend Developer • Linux Explorer
-
-</div>
+**Informatics Engineering Student | Frontend Developer | Linux Explorer**
 
 ---
 
-## About
+### About
+Frontend developer focused on building clean, responsive, and user-centered interfaces. Currently exploring the Linux ecosystem and expanding my knowledge of modern web development and open-source technologies.
 
-Frontend developer focused on building clean, responsive, and user-centered interfaces.
-
-Currently exploring the Linux ecosystem while expanding my knowledge of modern web development and open-source technologies.
+---
 
 <table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>Current Focus</h3>
-
-<img src="https://img.shields.io/badge/Building%20Modern%20Interfaces-191919?style=flat-square" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Improving%20Design%20Consistency-191919?style=flat-square" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Learning%20Linux%20%26%20Open%20Source-191919?style=flat-square" />
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>Interests</h3>
-
-<img src="https://img.shields.io/badge/Frontend-191919?style=flat-square" />
-
-<img src="https://img.shields.io/badge/UI%20%2F%20UX-191919?style=flat-square" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Open%20Source-191919?style=flat-square" />
-
-<img src="https://img.shields.io/badge/Linux-191919?style=flat-square" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Creative%20Problem%20Solving-191919?style=flat-square" />
-
-</td>
-
-</tr>
+  <tr>
+    <th width="50%">Focus & Interests</th>
+    <th width="50%">Tech Stack & OS</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      • Modern UI/UX Development <br>
+      • Design Consistency <br>
+      • Open Source Advocacy <br>
+      • Creative Problem Solving
+    </td>
+    <td valign="top">
+      • <b>Web:</b> HTML, CSS, JS, TS, React <br>
+      • <b>Styling:</b> Tailwind, DaisyUI, Bootstrap <br>
+      • <b>Tools:</b> Git, Arch, Fedora, Mint, Ubuntu
+    </td>
+  </tr>
 </table>
 
 ---
 
-## Technology Stack
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-191919?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-191919?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-191919?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-191919?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-191919?style=for-the-badge&logo=react&logoColor=white" />
+**Connect** <br>
+[Instagram](#) • [TikTok](#) • [Discord](#)
 
 <br>
 
-<img src="https://img.shields.io/badge/Bootstrap-191919?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-191919?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/DaisyUI-191919?style=for-the-badge&logo=daisyui&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Git-191919?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-191919?style=for-the-badge&logo=linux&logoColor=white" />
-
-</div>
-
----
-
-## Linux Journey
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Arch%20Linux-191919?style=for-the-badge&logo=archlinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Fedora-191919?style=for-the-badge&logo=fedora&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux%20Mint-191919?style=for-the-badge&logo=linuxmint&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-191919?style=for-the-badge&logo=ubuntu&logoColor=white" />
-
-</div>
-
-<br>
-
-<p align="center">
-Still learning how things work beneath the surface.
-</p>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/Instagram-191919?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/TikTok-191919?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Discord-191919?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<i>Every solved cube begins with a scrambled state.</i>
-
-<br>
+*Every solved cube begins with a scrambled state.*
 
 <b>ASTARS</b>
 
+</div>
 </div>
