@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="1280" height="640" alt="WhatsApp Image 2026-06-06 at 13 18 20" src="https://github.com/user-attachments/assets/a782cf47-78c4-43e9-82f7-81b9c5404b1a" />
+
+
 # ASTARS
 
 **INFORMATICS ENGINEERING STUDENT**
